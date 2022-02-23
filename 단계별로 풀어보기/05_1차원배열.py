@@ -1,4 +1,4 @@
-# 10818, 2562, 2577, 3052, 1546, 8958, 4344
+# 10818
 import sys
 a = int(input())
 b = list(map(int, sys.stdin.readline().split()))

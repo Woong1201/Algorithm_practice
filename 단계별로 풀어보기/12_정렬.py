@@ -1,5 +1,4 @@
 # 2750
-from statistics import median
 import sys
 a = int(input())
 answer = []
