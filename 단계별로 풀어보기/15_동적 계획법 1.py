@@ -218,9 +218,50 @@ for num in num_list:
 print(N - max(list(LIS.keys())))
 
 # 9251
+import sys
+sentence1 = sys.stdin.readline().rstrip()
+sentence2 = sys.stdin.readline().rstrip()
+LCS = {0:-1}
 
+for s1 in sentence1:
+    index = max(LCS)
+    while index+1:
+        if s1 in sentence2[LCS[index]+1:]:
+            if LCS.get(index+1, 1000) > LCS[index] + 1 + sentence2[LCS[index]+1:].find(s1):
+                LCS[index+1] = LCS[index] + 1 + sentence2[LCS[index]+1:].find(s1)
+        index -= 1
+
+print(max(list(LCS.keys())))
 
 # 1912
+import sys
 
+N = int(input())
+num_list = list(map(int,sys.stdin.readline().split()))
+max = max(num_list)
+
+num = 0
+for i in range(N):
+    if num + num_list[i] >= 0:
+        num += num_list[i]
+        if max < num:
+            max = num
+    else :
+        num = 0
+
+print(max)
 
 # 12865
+import sys
+
+N, K = map(int, sys.stdin.readline().split())
+bag = {0:0}
+
+for i in range(N):
+    W, V = map(int, sys.stdin.readline().split())
+    bag_list = sorted(list(bag.keys()), key = lambda x : -x)
+    for j in bag_list:
+        if W+j <= K and bag.get(W+j,0)<V+bag[j]:
+            bag[W+j] = V+bag[j]
+
+print(max(list(bag.values())))
