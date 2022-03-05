@@ -1,5 +1,4 @@
 # 1978
-from cmath import pi
 import sys
 import math
 def isprime(x):
