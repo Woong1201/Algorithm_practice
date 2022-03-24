@@ -28,6 +28,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/1038" target="_blank">baekjoon_1038</a> | <a href="https://www.acmicpc.net/problem/1038" target="_blank">감소하는 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/01038 감소하는 수">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1107" target="_blank">baekjoon_1107</a> | <a href="https://www.acmicpc.net/problem/1107" target="_blank">리모컨</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/01107 리모컨">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/17135" target="_blank">baekjoon_17135</a> | <a href="https://www.acmicpc.net/problem/17135" target="_blank">캐슬 디펜스</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/17135 캐슬 디펜스">바로가기</a> |
 
 
 
@@ -35,6 +36,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/1038" target="_blank">baekjoon_1043</a> | <a href="https://www.acmicpc.net/problem/1043" target="_blank">거짓말</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/01043 거짓말">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/17471" target="_blank">baekjoon_17471</a> | <a href="https://www.acmicpc.net/problem/17471" target="_blank">게리맨더링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/17471 게리맨더링">바로가기</a> |
 
 
 ## Tree (트리)
@@ -56,11 +58,12 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 ## Dynamic Programming (동적계획법)
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| <a href="https://www.acmicpc.net/problem/1167" target="_blank">baekjoon_6988</a> | <a href="https://www.acmicpc.net/problem/6988" target="_blank">타일 밟기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | <a href="baekjoon/06988 타일 밟기">바로가기</a> |<a href="https://www.acmicpc.net/category/65" target="_blank">KOI 2008</a> |
+| <a href="https://www.acmicpc.net/problem/6988" target="_blank">baekjoon_6988</a> | <a href="https://www.acmicpc.net/problem/6988" target="_blank">타일 밟기 </a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | <a href="baekjoon/06988 타일 밟기">바로가기</a> |<a href="https://www.acmicpc.net/category/65" target="_blank">KOI 2008</a> |
 | <a href="https://www.acmicpc.net/problem/11054" target="_blank">baekjoon_11054</a> | <a href="https://www.acmicpc.net/problem/11054" target="_blank">가장 긴 바이토닉 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/11054 가장 긴 바이토닉 부분 수열">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/24501" target="_blank">baekjoon_24501</a> | <a href="https://www.acmicpc.net/problem/24501" target="_blank">blobaww</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/24501 blobaww">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/3030" target="_blank">제 1회 블롭컵</a> |
 
-
-
-## 예비
+## 분류중
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/17298" target="_blank">baekjoon_17298</a> | <a href="https://www.acmicpc.net/problem/17298" target="_blank">오큰수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/17298 오큰수">바로가기</a> |
+
