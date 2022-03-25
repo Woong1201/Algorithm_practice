@@ -14,6 +14,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 | <a href="https://www.acmicpc.net/problem/5430" target="_blank">baekjoon_5430</a> | <a href="https://www.acmicpc.net/problem/5430" target="_blank">AC</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/05430 AC">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/424" target="_blank">BAPC 2011</a> |
 | <a href="https://www.acmicpc.net/problem/13172" target="_blank">baekjoon_13172</a> | <a href="https://www.acmicpc.net/problem/13172" target="_blank">Σ</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/13172 Σ">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/1511" target="_blank">제4회 kriiicon</a> |
 | <a href="https://www.acmicpc.net/problem/15686" target="_blank">baekjoon_15686</a> | <a href="https://www.acmicpc.net/problem/15686" target="_blank">치킨 배달</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/15686 치킨 배달">바로가기</a> |
+| <a href="https://programmers.co.kr/learn/courses/30/lessons/60062" target="_blank">programmers</a> | <a href="https://programmers.co.kr/learn/courses/30/lessons/60062" target="_blank">외벽 점검</a> | <button type="button" class="mb-1 btn btn-warning">LV.2</button> | <a href="programmers/외벽 점검">바로가기</a> |<a href="https://programmers.co.kr/learn/challenges" target="_blank">2020 KAKAO BLIND RECRUITMENT</a> |
 
 
 ## MATH (수학)
@@ -31,7 +32,6 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 | <a href="https://www.acmicpc.net/problem/17135" target="_blank">baekjoon_17135</a> | <a href="https://www.acmicpc.net/problem/17135" target="_blank">캐슬 디펜스</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/17135 캐슬 디펜스">바로가기</a> |
 
 
-
 ## Graph (그래프 이론)
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -42,18 +42,21 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 ## Tree (트리)
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| <a href="https://www.acmicpc.net/problem/1167" target="_blank">baekjoon_1167</a> | <a href="https://www.acmicpc.net/problem/1167" target="_blank">트리의 지름</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/01967 트리의 지름">바로가기</a> |
-| <a href="https://www.acmicpc.net/problem/1167" target="_blank">baekjoon_1967</a> | <a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/01967 트리의 지름">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/1167" target="_blank">baekjoon_1167</a> | <a href="https://www.acmicpc.net/problem/1167" target="_blank">트리의 지름</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/01167 트리의 지름">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/1967" target="_blank">baekjoon_1967</a> | <a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/01967 트리의 지름">바로가기</a> |
+
 
 ## Greedy Algorithm (그리디 알고리즘)
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/2437" target="_blank">baekjoon_2437</a> | <a href="https://www.acmicpc.net/problem/2437" target="_blank">저울</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/02437 저울">바로가기</a> |<a href="https://www.acmicpc.net/category/59" target="_blank">KOI 2011</a> |
 
+
 ## Backtracking (백트래킹)
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/2580" target="_blank">baekjoon_2580</a> | <a href="https://www.acmicpc.net/problem/2580" target="_blank">스도쿠</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/02580 스도쿠">바로가기</a> |<a href="https://www.acmicpc.net/category/70" target="_blank">KOI 2006</a> |
+
 
 ## Dynamic Programming (동적계획법)
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
@@ -62,8 +65,10 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 | <a href="https://www.acmicpc.net/problem/11054" target="_blank">baekjoon_11054</a> | <a href="https://www.acmicpc.net/problem/11054" target="_blank">가장 긴 바이토닉 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/11054 가장 긴 바이토닉 부분 수열">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/24501" target="_blank">baekjoon_24501</a> | <a href="https://www.acmicpc.net/problem/24501" target="_blank">blobaww</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/24501 blobaww">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/3030" target="_blank">제 1회 블롭컵</a> |
 
+
 ## 분류중
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/17298" target="_blank">baekjoon_17298</a> | <a href="https://www.acmicpc.net/problem/17298" target="_blank">오큰수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/17298 오큰수">바로가기</a> |
+
 
