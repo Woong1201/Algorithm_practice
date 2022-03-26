@@ -63,7 +63,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/6988" target="_blank">baekjoon_6988</a> | <a href="https://www.acmicpc.net/problem/6988" target="_blank">타일 밟기 </a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | <a href="baekjoon/06988 타일 밟기">바로가기</a> |<a href="https://www.acmicpc.net/category/65" target="_blank">KOI 2008</a> |
 | <a href="https://www.acmicpc.net/problem/11054" target="_blank">baekjoon_11054</a> | <a href="https://www.acmicpc.net/problem/11054" target="_blank">가장 긴 바이토닉 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/11054 가장 긴 바이토닉 부분 수열">바로가기</a> |
-| <a href="https://www.acmicpc.net/problem/24501" target="_blank">baekjoon_24501</a> | <a href="https://www.acmicpc.net/problem/24501" target="_blank">blobaww</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/24501 blobaww">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/3030" target="_blank">제 1회 블롭컵</a> |
+| <a href="https://www.acmicpc.net/problem/24501" target="_blank">baekjoon_24501</a> | <a href="https://www.acmicpc.net/problem/24501" target="_blank">blobaww</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/24501 blobaww">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/3030" target="_blank">제1회 블롭컵</a> |
 
 
 ## 분류중
