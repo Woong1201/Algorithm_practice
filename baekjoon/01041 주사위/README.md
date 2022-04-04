@@ -1,1 +1,1 @@
-# [baekjoon_주사위](https://solved.ac/search?query=1041)
+# [baekjoon_주사위](https://www.acmicpc.net/problem/1041)
