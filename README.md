@@ -45,8 +45,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 | <a href="https://www.acmicpc.net/problem/1167" target="_blank">baekjoon_1167</a> | <a href="https://www.acmicpc.net/problem/1167" target="_blank">트리의 지름</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/01167 트리의 지름">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1967" target="_blank">baekjoon_1967</a> | <a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/01967 트리의 지름">바로가기</a> |
 
-
-## Greedy Algorithm (그리디 알고리즘)
+## <a href="Notes/그리디 알고리즘" target="_blank">Greedy Algorithm (그리디 알고리즘)</a>
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/2437" target="_blank">baekjoon_2437</a> | <a href="https://www.acmicpc.net/problem/2437" target="_blank">저울</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/02437 저울">바로가기</a> |<a href="https://www.acmicpc.net/category/59" target="_blank">KOI 2011</a> |
@@ -70,5 +69,3 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/17298" target="_blank">baekjoon_17298</a> | <a href="https://www.acmicpc.net/problem/17298" target="_blank">오큰수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/17298 오큰수">바로가기</a> |
-
-
