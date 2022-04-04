@@ -1,0 +1,1 @@
+# [baekjoon_주사위](https://solved.ac/search?query=1041)
