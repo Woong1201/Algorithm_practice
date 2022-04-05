@@ -67,6 +67,11 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 | <a href="https://www.acmicpc.net/problem/11054" target="_blank">baekjoon_11054</a> | <a href="https://www.acmicpc.net/problem/11054" target="_blank">가장 긴 바이토닉 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/11054 가장 긴 바이토닉 부분 수열">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/24501" target="_blank">baekjoon_24501</a> | <a href="https://www.acmicpc.net/problem/24501" target="_blank">blobaww</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/24501 blobaww">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/3030" target="_blank">제1회 블롭컵</a> |
 
+## Two Pointer (두 포인터)
+|문제 번호|문제 이름|난이도|풀이 링크|NOTE|
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/2473" target="_blank">baekjoon_2473</a> | <a href="https://www.acmicpc.net/problem/2473" target="_blank">세 용액</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/02473 세 용액">바로가기</a> |
+
 
 ## 분류중
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
