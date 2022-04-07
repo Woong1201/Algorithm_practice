@@ -72,6 +72,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/2003" target="_blank">baekjoon_2003</a> | <a href="https://www.acmicpc.net/problem/2003" target="_blank">수들의 합 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | <a href="baekjoon/02003 수들의 합 2">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/1806" target="_blank">baekjoon_1806</a> | <a href="https://www.acmicpc.net/problem/1806" target="_blank">부분합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/01806 부분합">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/28" target="_blank">SEERC 2006</a> |
 | <a href="https://www.acmicpc.net/problem/2473" target="_blank">baekjoon_2473</a> | <a href="https://www.acmicpc.net/problem/2473" target="_blank">세 용액</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/02473 세 용액">바로가기</a> |
 
 
