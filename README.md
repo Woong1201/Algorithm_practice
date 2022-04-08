@@ -50,6 +50,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 ## <a href="Notes/그리디 알고리즘" target="_blank">Greedy Algorithm (그리디 알고리즘)</a>
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/1071" target="_blank">baekjoon_1071</a> | <a href="https://www.acmicpc.net/problem/1071" target="_blank">소트</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | <a href="baekjoon/01071 소트">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1082" target="_blank">baekjoon_1082</a> | <a href="https://www.acmicpc.net/problem/1082" target="_blank">방 번호</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/01082 방 번호">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1041" target="_blank">baekjoon_1041</a> | <a href="https://www.acmicpc.net/problem/1041" target="_blank">주사위</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/01041 주사위">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2437" target="_blank">baekjoon_2437</a> | <a href="https://www.acmicpc.net/problem/2437" target="_blank">저울</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/02437 저울">바로가기</a> |<a href="https://www.acmicpc.net/category/59" target="_blank">KOI 2011</a> |
