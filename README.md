@@ -20,6 +20,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 ## MATH (수학)
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/1979" target="_blank">baekjoon_1979</a> | <a href="https://www.acmicpc.net/problem/1979" target="_blank">극적인 곱셈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | <a href="baekjoon/01979 극적인 곱셈">바로가기</a> |<a href="https://www.acmicpc.net/category/877" target="_blank">ICPC 2005</a> |
 | <a href="https://www.acmicpc.net/problem/9527" target="_blank">baekjoon_9527</a> | <a href="https://www.acmicpc.net/problem/9527" target="_blank">1의 개수 세기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="baekjoon/09527 1의 개수 세기">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/1175" target="_blank">ICPC 2013</a> |
 | <a href="https://www.acmicpc.net/problem/1011" target="_blank">baekjoon_1011</a> | <a href="https://www.acmicpc.net/problem/1011" target="_blank">Fly me to the Alpha Centauri</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/01011 Fly me to the Alpha Centauri">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2981" target="_blank">baekjoon_2981</a> | <a href="https://www.acmicpc.net/problem/2981" target="_blank">검문</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/02981 검문">바로가기</a> |<a href="https://www.acmicpc.net/category/23" target="_blank">COCI 2007</a> |
