@@ -6,7 +6,7 @@
 Programmers 문제는 문제 번호가 없기 때문에 문제 이름으로 검색해야하고,   
 Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 
-## Implementation (구현)
+## <a href="Notes/구현" target="_blank">Implementation (구현)</a>
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/12100" target="_blank">baekjoon_12100</a> | <a href="https://www.acmicpc.net/problem/12100" target="_blank">2048</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="baekjoon/12100 2048">바로가기</a> |
@@ -66,9 +66,10 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 | <a href="https://www.acmicpc.net/problem/2580" target="_blank">baekjoon_2580</a> | <a href="https://www.acmicpc.net/problem/2580" target="_blank">스도쿠</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/02580 스도쿠">바로가기</a> |<a href="https://www.acmicpc.net/category/70" target="_blank">KOI 2006</a> |
 
 
-## Dynamic Programming (동적계획법)
+## <a href="Notes/다이나믹 프로그래밍" target="_blank">Dynamic Programming (동적계획법)</a>
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/1005" target="_blank">baekjoon_1005</a> | <a href="https://www.acmicpc.net/problem/1005" target="_blank">ACM Craft</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/01005 ACM Craft">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/6988" target="_blank">baekjoon_6988</a> | <a href="https://www.acmicpc.net/problem/6988" target="_blank">타일 밟기 </a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | <a href="baekjoon/06988 타일 밟기">바로가기</a> |<a href="https://www.acmicpc.net/category/65" target="_blank">KOI 2008</a> |
 | <a href="https://www.acmicpc.net/problem/11054" target="_blank">baekjoon_11054</a> | <a href="https://www.acmicpc.net/problem/11054" target="_blank">가장 긴 바이토닉 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | <a href="baekjoon/11054 가장 긴 바이토닉 부분 수열">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/24501" target="_blank">baekjoon_24501</a> | <a href="https://www.acmicpc.net/problem/24501" target="_blank">blobaww</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/24501 blobaww">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/3030" target="_blank">제1회 블롭컵</a> |
