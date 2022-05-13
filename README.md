@@ -9,6 +9,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 ## <a href="Notes/구현" target="_blank">Implementation (구현)</a>
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/1089" target="_blank">baekjoon_1089</a> | <a href="https://www.acmicpc.net/problem/1089" target="_blank">스타트링크 타워</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/01089 스타트링크 타워">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/12100" target="_blank">baekjoon_12100</a> | <a href="https://www.acmicpc.net/problem/12100" target="_blank">2048</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="baekjoon/12100 2048">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/3190" target="_blank">baekjoon_3190</a> | <a href="https://www.acmicpc.net/problem/3190" target="_blank">뱀</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/03190 뱀">바로가기</a> |<a href="https://www.acmicpc.net/category/50" target="_blank">CHCI 2005</a> |
 | <a href="https://www.acmicpc.net/problem/3830" target="_blank">baekjoon_3830</a> | <a href="https://www.acmicpc.net/problem/3830" target="_blank">교수님은 기다리지 않는다</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/18.svg"/> | <a href="baekjoon/03830 교수님은 기다리지 않는다">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/191" target="_blank">ICPC 2012</a> |
@@ -21,6 +22,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 ## MATH (수학)
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/2166" target="_blank">baekjoon_2166</a> | <a href="https://www.acmicpc.net/problem/2166" target="_blank">다각형의 면적</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/02166 다각형의 면적">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/12850" target="_blank">baekjoon_12850</a> | <a href="https://www.acmicpc.net/problem/12850" target="_blank">본대 산책2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | <a href="baekjoon/12850 본대 산책2">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/1497" target="_blank">SCCC 2016</a> |
 | <a href="https://www.acmicpc.net/problem/10830" target="_blank">baekjoon_10830</a> | <a href="https://www.acmicpc.net/problem/10830" target="_blank">행렬 제곱</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/10830 행렬 제곱">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1979" target="_blank">baekjoon_1979</a> | <a href="https://www.acmicpc.net/problem/1979" target="_blank">극적인 곱셈</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | <a href="baekjoon/01979 극적인 곱셈">바로가기</a> |<a href="https://www.acmicpc.net/category/877" target="_blank">ICPC 2005</a> |
@@ -40,6 +42,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 ## Graph (그래프 이론)
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/4386" target="_blank">baekjoon_4386</a> | <a href="https://www.acmicpc.net/problem/4386" target="_blank">별자리 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/04386 별자리 만들기">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1038" target="_blank">baekjoon_1043</a> | <a href="https://www.acmicpc.net/problem/1043" target="_blank">거짓말</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/01043 거짓말">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/17471" target="_blank">baekjoon_17471</a> | <a href="https://www.acmicpc.net/problem/17471" target="_blank">게리맨더링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/17471 게리맨더링">바로가기</a> |
 
