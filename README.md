@@ -9,6 +9,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 ## <a href="Notes/구현" target="_blank">Implementation (구현)</a>
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/7490" target="_blank">baekjoon_7490</a> | <a href="https://www.acmicpc.net/problem/7490" target="_blank">0 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/07490 0 만들기">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/899" target="_blank">ICPC 2010</a> |
 | <a href="https://www.acmicpc.net/problem/1089" target="_blank">baekjoon_1089</a> | <a href="https://www.acmicpc.net/problem/1089" target="_blank">스타트링크 타워</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/01089 스타트링크 타워">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/12100" target="_blank">baekjoon_12100</a> | <a href="https://www.acmicpc.net/problem/12100" target="_blank">2048</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="baekjoon/12100 2048">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/3190" target="_blank">baekjoon_3190</a> | <a href="https://www.acmicpc.net/problem/3190" target="_blank">뱀</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/03190 뱀">바로가기</a> |<a href="https://www.acmicpc.net/category/50" target="_blank">CHCI 2005</a> |
@@ -22,6 +23,8 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 ## MATH (수학)
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/1038" target="_blank">baekjoon_1038</a> | <a href="https://www.acmicpc.net/problem/1038" target="_blank">감소하는 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/01038 감소하는 수">바로가기</a> |
+| <a href="https://www.acmicpc.net/problem/1174" target="_blank">baekjoon_1174</a> | <a href="https://www.acmicpc.net/problem/1174" target="_blank">줄어드는 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/01174 줄어드는 수">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/2166" target="_blank">baekjoon_2166</a> | <a href="https://www.acmicpc.net/problem/2166" target="_blank">다각형의 면적</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/02166 다각형의 면적">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/12850" target="_blank">baekjoon_12850</a> | <a href="https://www.acmicpc.net/problem/12850" target="_blank">본대 산책2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | <a href="baekjoon/12850 본대 산책2">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/1497" target="_blank">SCCC 2016</a> |
 | <a href="https://www.acmicpc.net/problem/10830" target="_blank">baekjoon_10830</a> | <a href="https://www.acmicpc.net/problem/10830" target="_blank">행렬 제곱</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/10830 행렬 제곱">바로가기</a> |
@@ -34,7 +37,6 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 ## Brute Force (브루트포스 알고리즘)
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| <a href="https://www.acmicpc.net/problem/1038" target="_blank">baekjoon_1038</a> | <a href="https://www.acmicpc.net/problem/1038" target="_blank">감소하는 수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/01038 감소하는 수">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/1107" target="_blank">baekjoon_1107</a> | <a href="https://www.acmicpc.net/problem/1107" target="_blank">리모컨</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/01107 리모컨">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/17135" target="_blank">baekjoon_17135</a> | <a href="https://www.acmicpc.net/problem/17135" target="_blank">캐슬 디펜스</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <a href="baekjoon/17135 캐슬 디펜스">바로가기</a> |
 
