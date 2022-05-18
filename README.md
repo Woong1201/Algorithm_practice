@@ -9,6 +9,7 @@ Baekjoon 문제는 문제 번호와 문제 이름으로 검색 가능합니다.
 ## <a href="Notes/구현" target="_blank">Implementation (구현)</a>
 |문제 번호|문제 이름|난이도|풀이 링크|NOTE|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+| <a href="https://www.acmicpc.net/problem/2873" target="_blank">baekjoon_2873</a> | <a href="https://www.acmicpc.net/problem/2873" target="_blank">롤러코스터</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/18.svg"/> | <a href="baekjoon/02873 롤러코스터">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/76" target="_blank">COCI 2010</a> |
 | <a href="https://www.acmicpc.net/problem/7490" target="_blank">baekjoon_7490</a> | <a href="https://www.acmicpc.net/problem/7490" target="_blank">0 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/07490 0 만들기">바로가기</a> |<a href="https://www.acmicpc.net/category/detail/899" target="_blank">ICPC 2010</a> |
 | <a href="https://www.acmicpc.net/problem/1089" target="_blank">baekjoon_1089</a> | <a href="https://www.acmicpc.net/problem/1089" target="_blank">스타트링크 타워</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <a href="baekjoon/01089 스타트링크 타워">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/12100" target="_blank">baekjoon_12100</a> | <a href="https://www.acmicpc.net/problem/12100" target="_blank">2048</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | <a href="baekjoon/12100 2048">바로가기</a> |
