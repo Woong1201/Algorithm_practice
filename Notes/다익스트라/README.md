@@ -97,7 +97,7 @@ for _ in range(M):
   n1, n2, cost = map(int, sys.stdin.readline().split())
   graph[n1].append((n2, cost))
 
-ditance = [10000]*(N+1)
+distance = [10000]*(N+1)
 
 def dijkstra(start):
   q = [(0,start)]
