@@ -1,59 +1,51 @@
+import heapq
 import sys
 
-N, M = map(int, sys.stdin.readline().split())
-true = set(list(map(int, sys.stdin.readline().split()))[1:])
-false = set(i for i in range(1,N+1)) - true
-connect = {i:set() for i in range(1,N+1)}
-party = {i:[] for i in range(1,N+1)}
+# 노드수, 간선수, 한점
+N, M, X = map(int, sys.stdin.readline().split())
+connects = {}
+# 간선 입력
+for _ in range(M):
+    a, b, time = map(int, sys.stdin.readline().split())
+    if a not in connects:
+        connects[a] = []
+    connects[a].append([b, time])
 
-for i in range(M):
-    participant = list(map(int, sys.stdin.readline().split()))[1:]
-    for j in participant:
-        party[j].append(i)
-        for p in participant:
-            connect[j].add(p)
+# X에서 출발하여 각 노드로 가는 거리 계산 (다익스트라 알고리즘)
+from_x = [1000001]*(N+1)
+from_x[X] = 0
+locations = [[0, X]]
+while locations:
+    time, loc = heapq.heappop(locations)
+    if from_x[loc] != time:
+        continue
 
-while len(true):
-    true1 = set()
-    for i in true:
-        for j in connect[i]:
-            if j in false:
-                false.remove(j)
-                true1.add(j)
-    true = true1
+    for new_loc, new_time in connects[loc]:
+        if from_x[new_loc] > time+new_time:
+            from_x[new_loc] = time+new_time
+            heapq.heappush(locations, [time+new_time, new_loc])
 
-answer = []
-for f in false:
-    answer += party[f]
+# 각 노드에서 출발하여 X로 가는 거리 계산
+ans = 0
+for node in range(1, N+1):
+    dp = [1000001]*(N+1)
+    dp[node] = 0
+    locations = [[0, node]]
+    while True:
+        time, loc = heapq.heappop(locations)
+        if dp[loc] != time:
+            continue
+        if loc == X:
+            break
 
-print(len(set(answer)))
+        for new_loc, new_time in connects[loc]:
+            if dp[new_loc] > time+new_time:
+                dp[new_loc] = time+new_time
+                heapq.heappush(locations, [time+new_time, new_loc])
 
+    # 계산 완료시 ans 갱신
+    new_ans = from_x[node] + time
+    if ans < new_ans:
+        ans = new_ans
 
-
-
-import sys
-
-N, M = map(int, sys.stdin.readline().split())
-
-true = set(list(map(int, sys.stdin.readline().split()))[1:])
-false = set(i for i in range(1,N+1)) - true
-
-dic = {i:[] for i in range(1,N+1)}
-party = []
-
-for i in range(M):
-    party.append(set(list(map(int, sys.stdin.readline().split()))[1:]))
-    for j in party[-1]:
-        dic[j].append(i)
-
-while True:
-    over = 0
-    if 
-
-    pass
-
-partyset = set()
-for t in true:
-    partyset.update(dic[t])
-
-print(true, partyset)
+print(ans)
